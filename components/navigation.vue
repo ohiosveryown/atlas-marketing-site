@@ -103,7 +103,7 @@
     font-size: 1.4rem;
     font-weight: 500;
     border-bottom: 0.5px solid rgba(255, 255, 255, 0.24);
-    background: linear-gradient(#05020d, rgba(5, 2, 13, 0.4));
+    background: linear-gradient(#05020d, rgba(5, 2, 13, 0.52));
     backdrop-filter: blur(22px);
     transition: all 300ms ease;
 

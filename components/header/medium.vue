@@ -15,6 +15,13 @@
   h2 {
     padding-bottom: 1.6rem;
     background: linear-gradient(180deg, #ffffff 0%, #d0c4e7 100%);
+    /* background: linear-gradient(
+      270deg,
+      #c0b4d5 0%,
+      #ffffff 30%,
+      #ffffff 64%,
+      #c0b4d5 120%
+    ); */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 

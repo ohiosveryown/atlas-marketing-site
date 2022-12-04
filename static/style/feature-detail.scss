@@ -1,0 +1,14 @@
+@import "~/static/style/grid.scss";
+
+.hero {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  padding: 6.4rem;
+  background: linear-gradient(
+    252deg,
+    rgba(19, 15, 35, 0.88),
+    rgba(69, 58, 104, 0.88) 48%,
+    rgba(38, 32, 52, 0.88) 98%
+  );
+}

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="width">
     <h1>Changlog...</h1>
     <ul>
       <li v-for="article of changelog" :key="article.slug">
@@ -19,6 +19,17 @@
     </ul>
   </div>
 </template>
+
+<style lang="scss" scoped>
+  @import "~static/style/grid.scss";
+
+  .width {
+    margin-top: 4rem;
+    @include breakpoint(md) {
+      margin-top: 8rem;
+    }
+  }
+</style>
 
 <script>
   export default {

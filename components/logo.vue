@@ -77,10 +77,6 @@
   </svg>
 </template>
 
-<style lang="scss" scoped>
-  @import "~static/style/grid.scss";
-</style>
-
 <script>
   export default {}
 </script>

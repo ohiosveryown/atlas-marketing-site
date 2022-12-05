@@ -258,5 +258,11 @@
         this.$refs.menuSm.classList.toggle("menu-open")
       },
     },
+
+    watch: {
+      $route() {
+        this.$refs.menuSm.classList.remove("menu-open")
+      },
+    },
   }
 </script>

@@ -7,11 +7,11 @@ subheader: "Set up guides and articles to help your customers become pro’s wit
 hero: "https://res.cloudinary.com/da32ufmnf/image/upload/v1670175237/atlas-2.0/gfoq2fzg1okr7o7oghry.png"
 ---
 
-# Help center for end users
+### Help center for end users
 
 The help center is designed to provide end users with a complete self-service support option. They can get information from the knowledge base or turn to the community, if available, for answers. If they can't find an answer, they can submit a request to an agent.
 
-## Anatomy of the help center
+### Anatomy of the help center
 
 The help center can consist of a knowledge base and a community platform.
 

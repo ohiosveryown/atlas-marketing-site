@@ -1,5 +1,5 @@
 <template>
-  <div class="wrapper">
+  <div class="app">
     <h1>changelog Page Template...</h1>
     <nuxt-content :document="article" />
   </div>
@@ -19,8 +19,20 @@
       }
     },
 
-    methods: {},
+    methods: {
+      fadeIn() {
+        gsap.from(".app", {
+          opacity: 0,
+          duration: 1.2,
+          delay: 0.15,
+          stagger: 0.15,
+          ease: Power4.easeOut,
+        })
+      },
+    },
 
-    mounted() {},
+    mounted() {
+      this.fadeIn()
+    },
   }
 </script>

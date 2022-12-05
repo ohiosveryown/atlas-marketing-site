@@ -83,10 +83,10 @@
     header {
       margin-bottom: 2.4rem;
       text-align: center;
-      @include breakpoint(md) {
+      @include breakpoint(mdl) {
         text-align: left;
         margin-bottom: 4.8rem;
-        width: grid-width(5);
+        width: grid-width(6);
       }
     }
     .feature-grid {
@@ -121,7 +121,6 @@
 
       @include breakpoint(md) {
         margin-bottom: 1.6rem;
-        width: 5.2rem;
       }
     }
     a {

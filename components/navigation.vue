@@ -179,6 +179,10 @@
     }
   }
 
+  menu.small a {
+    display: flex;
+  }
+
   menu.small .footer {
     margin-top: 1.2rem;
   }

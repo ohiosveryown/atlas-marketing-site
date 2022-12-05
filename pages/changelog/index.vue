@@ -40,7 +40,7 @@
       margin: 8rem auto 6.4rem;
       width: grid-width(6);
     }
-    @include breakpoint(lg) {
+    @include breakpoint(xl) {
       width: grid-width(5);
     }
   }

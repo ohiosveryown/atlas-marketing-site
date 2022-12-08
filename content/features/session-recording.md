@@ -5,6 +5,7 @@ name: "Session Replay"
 header: "Pixel Perfect Replay"
 subheader: "A video is worth a thousand words. Let your customers show you rather than tell you with session recording."
 hero: "https://res.cloudinary.com/da32ufmnf/image/upload/v1670199321/atlas-2.0/kfcy2wvzk7qfinxuv8gu.png"
+type: "customer centric"
 ---
 
 ### What is session replay?

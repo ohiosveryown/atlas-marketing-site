@@ -37,7 +37,6 @@
 
 <style lang="scss" scoped>
   @import "~static/style/grid.scss";
-  @import "~static/style/detail-pages.scss";
 
   .page-header {
     display: flex;

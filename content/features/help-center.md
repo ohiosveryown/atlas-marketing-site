@@ -5,6 +5,7 @@ name: "Help Center"
 header: "Help Center in Your Brand"
 subheader: "Set up guides and articles to help your customers become pro’s with your product’s offering – all in your company’s brand."
 hero: "https://res.cloudinary.com/da32ufmnf/image/upload/v1670175237/atlas-2.0/gfoq2fzg1okr7o7oghry.png"
+type: "all in one"
 ---
 
 ### Help center for end users

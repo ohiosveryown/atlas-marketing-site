@@ -48,7 +48,7 @@
           <li class="signup tac">
             <span class="op-6">Existing user?</span>
             <a
-              class="light-blue"
+              class="login light-blue"
               href="https://app.getatlas.io/auth/login?next=/"
               >Log In</a
             >
@@ -185,6 +185,12 @@
 
   menu.small .footer {
     margin-top: 1.2rem;
+  }
+
+  .login {
+    margin: 0 auto;
+    width: max-content;
+    text-align: center;
   }
 
   menu.small .signup {

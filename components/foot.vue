@@ -19,7 +19,7 @@
           <li>
             <nuxt-link to="/features">Features</nuxt-link>
           </li>
-          <li><nuxt-link to="/">Integrations</nuxt-link></li>
+          <li><nuxt-link to="/">Integrations..?</nuxt-link></li>
           <li><nuxt-link to="/pricing">Pricing</nuxt-link></li>
           <li><nuxt-link to="/changelog">Changelog</nuxt-link></li>
         </ul>

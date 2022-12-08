@@ -10,7 +10,7 @@
       <section class="hero width">
         <figure>
           <img
-            src="https://res.cloudinary.com/da32ufmnf/image/upload/v1668962888/atlas-refresh/index/cmk7xbfccjnfmyyr2lok.png"
+            src="https://media.getatlas.io/hero.png"
             alt="Atlas Customer Timeline"
           />
         </figure>
